@@ -1,7 +1,3 @@
-# Awesome Python
-
-A curated collection of exceptional Python frameworks, libraries, software, and resources. This comprehensive guide helps developers discover the best tools for their Python projects.
-
 ## Table of Contents
 
 - [Admin Panels](#admin-panels)
