@@ -328,4 +328,4 @@ This curated list is inspired by [awesome-php](https://github.com/ziadoz/awesome
 
 ---
 
-**Connect**: Questions or suggestions? Contact [@VintaChen](https://twitter.com/VintaChen) or open an issue on GitHub.
+**Connect**: Questions or suggestions? Contact [@Carrington-dev](https://linkedin.com/in/Carrington-muleya) or open an issue on GitHub.
