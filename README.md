@@ -19,6 +19,7 @@
 - [GUI Development](#gui-development)
 - [Machine Learning](#machine-learning)
 - [Natural Language Processing](#natural-language-processing)
+- [Task Queues & Background Jobs](#task-queues-background-jobs)
 - [Web Frameworks](#web-frameworks)
 - [And many more...](#)
 
@@ -287,6 +288,22 @@ Libraries for testing code:
 
 ### Test Runners
 - **[tox](https://github.com/tox-dev/tox)** - Auto builds and tests in multiple environments
+
+## Task Queues & Background Jobs
+
+Task Queues & Background Jobs
+
+
+### Task Queues & Background Jobs
+- **[Celery](https://github.com/celery/celery)** - Distributed task queue with support for multiple brokers and advanced workflows
+- **[RQ](https://github.com/rq/rq)** - Simple Redis-based task queue for straightforward background jobs
+- **[Dramatiq](https://github.com/Bogdanp/dramatiq)** - Fast and reliable distributed task processing with great defaults
+- **[Huey](https://github.com/coleifer/huey)** - Lightweight task queue supporting Redis, SQLite, and in-memory backends
+- **[APScheduler](https://github.com/agronholm/apscheduler)** - In-process task scheduler with cron-like capabilities
+- **[ARQ](https://github.com/python-arq/arq)** - Asyncio-based task queue built for modern async Python applications
+- **[TaskTiger](https://github.com/closeio/tasktiger)** - Redis-based task queue with unique task execution and task locks
+
+
 
 ## Web Crawling
 
