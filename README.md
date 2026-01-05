@@ -294,7 +294,6 @@ Libraries for testing code:
 Task Queues & Background Jobs
 
 
-### Task Queues & Background Jobs
 - **[Celery](https://github.com/celery/celery)** - Distributed task queue with support for multiple brokers and advanced workflows
 - **[RQ](https://github.com/rq/rq)** - Simple Redis-based task queue for straightforward background jobs
 - **[Dramatiq](https://github.com/Bogdanp/dramatiq)** - Fast and reliable distributed task processing with great defaults
