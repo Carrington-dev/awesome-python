@@ -19,7 +19,7 @@
 - [GUI Development](#gui-development)
 - [Machine Learning](#machine-learning)
 - [Natural Language Processing](#natural-language-processing)
-- [Task Queues & Background Jobs](#task-queues-background-jobs)
+- [Task Queues & Background Jobs](#task-queues--background-jobs)
 - [Web Frameworks](#web-frameworks)
 - [And many more...](#)
 
